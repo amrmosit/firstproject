@@ -1,2 +1,2 @@
-# gitinit
+# firstproject
 My first Django App
